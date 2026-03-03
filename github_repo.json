@@ -6,7 +6,7 @@
       "id": 1,
       "type": "image",
       "title": "Welcome Banner",
-      "url": "https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img1.jpegg"
+      "url": "https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img1.jpeg"
     },
     {
       "id": 2,
@@ -33,4 +33,5 @@
       "description": "This app provides learning materials."
     }
   ]
+
 }
