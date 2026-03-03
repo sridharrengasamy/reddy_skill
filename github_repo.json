@@ -1,37 +1,89 @@
 {
-  "pageTitle": "Students Learning Resources",
-
-  "items": [
-    {
-      "id": 1,
-      "type": "image",
-      "title": "Welcome Banner",
-      "url": "https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img1.jpeg"
-    },
-    {
-      "id": 2,
-      "type": "pdf",
-      "title": "User Guide",
-      "url": "https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/file1.pdf"
-    },
-    {
-      "id": 3,
-      "type": "video",
-      "title": "App Intro",
-      "url": "https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video1.mp4"
-    },
-    {
-      "id": 4,
-      "type": "youtube",
-      "title": "YouTube Tutorial",
-      "youtubeId": "R4P2UTgYebg"
-    },
-    {
-      "id": 5,
-      "type": "text",
-      "title": "About App",
-      "description": "This app provides learning materials."
-    }
-  ]
-
-}
+   "media":[
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img1.jpeg"
+      },
+      {
+         "type":"video",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video1.mp4"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img2.jpeg"
+      },
+      {
+         "type":"video",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video2.mp4"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img3.jpeg"
+      },
+      {
+         "type":"video",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video3.mp4"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img4.jpeg"
+      },
+      {
+         "type":"video",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video4.mp4"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img5.jpeg"
+      },
+      {
+         "type":"video",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video5.mp4"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img6.jpeg"
+      },
+      {
+         "type":"video",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video6.mp4"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img7.jpeg"
+      },
+      {
+         "type":"video",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video7.mp4"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img8.jpeg"
+      },
+      {
+         "type":"video",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video8.mp4"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img9.jpeg"
+      },
+      {
+         "type":"video",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video9.mp4"
+      },
+      {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img10.jpeg"
+      },
+      {
+         "type":"video",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video10.mp4"
+      },
+   
+      {
+         "type":"youtube",
+         "Id":"R4P2UTgYebg"
+       }
+   ]
+ }
