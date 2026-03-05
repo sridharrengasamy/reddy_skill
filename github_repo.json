@@ -80,10 +80,15 @@
          "type":"video",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video10.mp4"
       },
+      {
+         "type":"pdf",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/file1.pdf"
+      },
    
       {
          "type":"youtube",
          "Id":"R4P2UTgYebg"
        }
    ]
+
  }
