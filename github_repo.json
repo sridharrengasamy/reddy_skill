@@ -4,77 +4,70 @@
          "type":"image",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img1.jpeg"
       },
-      {
-         "type":"video",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video1.mp4"
-      },
+      
       {
          "type":"image",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img2.jpeg"
       },
-      {
-         "type":"video",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video2.mp4"
-      },
+     
       {
          "type":"image",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img3.jpeg"
       },
-      {
-         "type":"video",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video3.mp4"
-      },
+      
       {
          "type":"image",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img4.jpeg"
       },
-      {
-         "type":"video",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video4.mp4"
-      },
+      
       {
          "type":"image",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img5.jpeg"
       },
-      {
-         "type":"video",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video5.mp4"
-      },
+      
       {
          "type":"image",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img6.jpeg"
       },
       {
-         "type":"video",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video6.mp4"
-      },
-      {
-         "type":"image",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img7.jpeg"
-      },
-      {
-         "type":"video",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video7.mp4"
-      },
-      {
          "type":"image",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img8.jpeg"
       },
-      {
-         "type":"video",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video8.mp4"
-      },
-      {
+     {
          "type":"image",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img9.jpeg"
       },
-      {
-         "type":"video",
-         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/video9.mp4"
-      },
-      {
+     {
          "type":"image",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img10.jpeg"
+      },
+       {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img11.jpeg"
+      },
+       {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img12.jpeg"
+      },
+       {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img13.jpeg"
+      },
+       {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img14.jpeg"
+      },
+       {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img15.jpeg"
+      },
+       {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img16.jpeg"
+      },
+       {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img17.jpeg"
       },
       {
          "type":"video",
@@ -84,7 +77,26 @@
          "type":"pdf",
          "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/file1.pdf"
       },
-   
+       {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img18.jpeg"
+      },
+       {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img19.jpeg"
+      },
+     {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img20.jpeg"
+      },
+       {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img21.jpeg"
+      },
+       {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/img22.jpeg"
+      },
       {
          "type":"youtube",
          "Id":"R4P2UTgYebg"
@@ -92,3 +104,4 @@
    ]
 
  }
+
