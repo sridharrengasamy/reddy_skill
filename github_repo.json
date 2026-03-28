@@ -1,6 +1,9 @@
 {
    "media":[
-
+       {
+         "type":"image",
+         "url":"https://raw.githubusercontent.com/sridharrengasamy/reddy_skill/main/WhatsApp Image 2026-03-27 at 11.05.00 PM.jpeg"
+      },
        {
          "type":"video",
          "url":"https://ik.imagekit.io/reddyvamsam/WhatsApp%20Video%202026-03-14%20at%208.34.50%20PM.mp4?updatedAt=1774317736975"
